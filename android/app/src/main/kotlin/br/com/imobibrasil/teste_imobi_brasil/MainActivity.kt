@@ -1,0 +1,5 @@
+package br.com.imobibrasil.teste_imobi_brasil
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()

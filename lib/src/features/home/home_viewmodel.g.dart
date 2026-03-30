@@ -1,0 +1,25 @@
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+part of 'home_viewmodel.dart';
+
+// **************************************************************************
+// RiverpodGenerator
+// **************************************************************************
+
+String _$homeVmHash() => r'a07bf8df52e288a275f9d353ecffd5913d932075';
+
+/// See also [HomeVm].
+@ProviderFor(HomeVm)
+final homeVmProvider =
+    AutoDisposeAsyncNotifierProvider<HomeVm, HomeState>.internal(
+  HomeVm.new,
+  name: r'homeVmProvider',
+  debugGetCreateSourceHash:
+      const bool.fromEnvironment('dart.vm.product') ? null : _$homeVmHash,
+  dependencies: null,
+  allTransitiveDependencies: null,
+);
+
+typedef _$HomeVm = AutoDisposeAsyncNotifier<HomeState>;
+// ignore_for_file: type=lint
+// ignore_for_file: subtype_of_sealed_class, invalid_use_of_internal_member, invalid_use_of_visible_for_testing_member, deprecated_member_use_from_same_package
